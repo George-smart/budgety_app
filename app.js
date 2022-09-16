@@ -247,7 +247,7 @@ const UIController = (() =>{
                 <div class="right clearfix">
                     <div class="item__value">${formatNumber(obj.value, 'inc')}</div>
                     <div class="item__delete">
-                        <button class="item__delete--btn"><i class="ion-ios-close-outline">d</i></button>
+                        <button class="item__delete--btn"><i class="ion-ios-close-outline"></i></button>
                     </div>
                 </div>
                 </div>`
@@ -260,7 +260,7 @@ const UIController = (() =>{
                     <div class="item__value">${formatNumber(obj.value, 'exp')}</div>
                     <div class="item__percentage">21%</div>
                     <div class="item__delete">
-                        <button class="item__delete--btn"><i class="ion-ios-close-outline">d</i></button>
+                        <button class="item__delete--btn"><i class="ion-ios-close-outline"></i></button>
                     </div>
                 </div>
             </div>`
